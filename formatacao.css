@@ -1,0 +1,36 @@
+.titulo{
+    font-size: xx-large;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tabela{
+    border: solid 3px;
+    border-radius: 5px;
+    border-color: darkgoldenrod;
+    text-align: center;
+}
+
+.nomeTabela{
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.cabecalho{
+    color: forestgreen;
+}
+
+.celula{
+    color: darkblue;
+    width: 60px; 
+    height: 20px;
+}
+
+.total{
+    background-color: cornflowerblue;
+    color:chartreuse; 
+    width: 60px; 
+    height: 20px;
+    font-weight: bold;
+}
