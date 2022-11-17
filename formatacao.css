@@ -18,11 +18,11 @@
 }
 
 .cabecalho{
-    color: green;
+    color: forestgreen;
 }
 
 .celula{
-    color: darkblue;
+    color: blue;
     width: 60px; 
     height: 20px;
 }
